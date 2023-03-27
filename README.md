@@ -1,7 +1,7 @@
 # A Beautiful React site with fiber and three js.
 
 ![image](https://user-images.githubusercontent.com/46962448/228007107-173de052-3d67-4b9c-a55f-06469a40ce83.png)
-You can costomize your T-shirt. 
+You can customize your T-shirt. 
 ![image](https://user-images.githubusercontent.com/46962448/228007568-c9968cba-a7bf-46d7-aa6e-f25d70e1bf19.png)
 
 Dependencies:
